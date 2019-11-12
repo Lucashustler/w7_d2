@@ -55,14 +55,111 @@ a {
 .banner_1 {
     width: 1000px;
     length: 200px;
-    left: 150px;
+}
+
+.banner_form {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 400px;
+    bottom: 300px;
+    border-radius: 2px;
+    border-style: solid;
+}
+
+
+.form-group_1 {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    width: 400px;
+    height: 100px;
+
+}
+
+.banner_form_title {
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+
+#banner_go_btn {
+    position: relative;
+    left: 350px;
+    top: 50px;
+    width: 100px;
 }
 
 .banner_1_2 {
-    display: flex;
-    justify-content: space-around;
+    border-style: solid;
+    width: 1003px;
+    height: 1000px;
+    position: relative;
+    left: 164px;
+
 }
 
 
+.banner_img_2 {
+    max-width: 100%;
+    height: auto;
+}
 
+.banner_2_text {
+    height: 950px;
+    width: 2000px;
+    background-color: rgba(0, 0, 0, 0.411);
+    position: relative;
+    bottom: 950px;
+    
+}
 
+.b_text_2 {
+    position: relative;
+    top: 400px;
+    left: 600px;
+    color: white;
+
+}
+
+.food_title {
+    font-size: 100px;
+    position: relative;
+    right: 50px;
+
+}
+
+.text_2 {
+    position: relative;
+    right: 110px;
+    font-size: 30px;
+}
+
+.event_attendee {
+    width: 800px;
+    height: 80px;
+    border-style: solid;
+    position: relative;
+    left: 10px;
+    border-radius: 5px;
+
+}
+
+.username {
+    position: relative;
+    left: 90px;
+    top: 10px;
+
+}
+
+.user_profile_picture {
+    width: 50px;
+    height: 50px;
+    border-style: solid;
+    position: relative;
+    bottom: 30px;
+    left: 10px;
+    border-radius: 30px;
+
+}
