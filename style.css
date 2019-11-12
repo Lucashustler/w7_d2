@@ -163,3 +163,38 @@ a {
     border-radius: 30px;
 
 }
+
+.new_comment {
+    width: 1000px;
+    height: 150px;
+    border-style: solid;
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    top: 80px;
+}
+
+.form-control_comment {
+    width: 800px;
+}
+
+#new_comment_input {
+    width: 800px;
+    position: relative;
+    left: 50px;
+}
+
+.comment_user {
+    position: relative;
+    left: 50px;
+
+}
+
+.comment_div {
+    border-style: solid;
+    height: 500px;
+    width: 1200px;
+    position: relative;
+    left: 120px;
+    top: 50px;
+}
